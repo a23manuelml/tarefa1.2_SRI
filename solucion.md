@@ -29,7 +29,7 @@
     
     ![imaxe1.6](imaxes/solapt1.6.png)
 
-2. Instala unha zona primaria de resolución directa chamada "academia.jedi" e engade os seguintes rexistros de recursos (a maiores dos rexistros NS e SOA imprescindibles):
+3. Instala unha zona primaria de resolución directa chamada "academia.jedi" e engade os seguintes rexistros de recursos (a maiores dos rexistros NS e SOA imprescindibles):
     - Tipo A: lukeskywalker con IP 192.168.20.101
     - Tipo A: benskywalker con IP 192.168.20.102
     - Tipo A: obiwankenobi con IP 192.168.56.152 e 192.168.56.153
@@ -60,7 +60,7 @@ Pega no documento de entrega a captura dos rexistros creados
 
     ![imaxe2.4](imaxes/solapt2.4.png)
 
-3. Instala unha zona de resolución inversa que teña que ver co enderezo do equipo lukeskywalker, e engade rexistros PTR para os rexistros tipo A do exercicio anterior. Pega no documento de entrega o a captura dos rexistros da zona.
+Instala unha zona de resolución inversa que teña que ver co enderezo do equipo lukeskywalker, e engade rexistros PTR para os rexistros tipo A do exercicio anterior. Pega no documento de entrega o a captura dos rexistros da zona.
 
 **SOLUCIÓN:**
 
