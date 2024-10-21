@@ -1,8 +1,6 @@
 ## Tarefa 1.2 - Instalación de zonas mestras primarias en Windows Server
 
 1. Instala o servidor DNS no equipo lukeskywalker. Comproba que xa funciona coma servidor DNS caché pegando no documento de entrega a saída deste comando  nslookup -norecurse www.starwars.com localhost
-Configura o servidor DNS para que empregue como reenviador 8.8.8.8. pegando no documento de entrega a captura de pantalla da configuración do reenviador e a saída deste comando: nslookup -recurse www.starwars.com localhost
-
 **SOLUCIÓN:**
 
 - Cambiamos o nombre do equipo:
@@ -21,6 +19,8 @@ Configura o servidor DNS para que empregue como reenviador 8.8.8.8. pegando no d
     
     ![imaxe1.4](imaxes/solapt1.4.png)
 
+2.Configura o servidor DNS para que empregue como reenviador 8.8.8.8. pegando no documento de entrega a captura de pantalla da configuración do reenviador e a saída deste comando: nslookup -recurse www.starwars.com localhost
+**SOLUCIÓN:**
 - Engadimos reenviadores de Google:
     
     ![imaxe1.5](imaxes/solapt1.5.png)
